@@ -1,3 +1,65 @@
+
+
+
+
+
+
+
+
+## INSTALACION
+
+
+### Instalacion en react
+
+    - $ npm install react-bootstrap bootstrap
+
+
+
+### Importacion de componente
+
+    $ import Button from 'react-bootstrap/Button';
+
+        // O lo ideeal es
+
+    $ import { Button } from 'react-bootstrap';
+
+
+
+### Styles - Importar estilos
+
+    - Debido a que React-Bootstrap no depende de una versión muy precisa de Bootstrap, no enviamos ningún CSS incluido. Sin embargo, se requiere alguna hoja de estilo para usar estos componentes.
+
+    La siguiente línea se puede incluir en su archivo src index.js o App.js
+
+    $ import 'bootstrap/dist/css/bootstrap.min.css';
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
