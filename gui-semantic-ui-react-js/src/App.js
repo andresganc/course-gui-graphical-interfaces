@@ -3,7 +3,7 @@ import React from 'react';
 //import './App.css';
 
 // Componentes
-import ButtonSemantic from 'views/buttons/Butoon';
+import ButtonSemantic from 'views/buttons/ButtonSemantic';
 
 function App() {
   return (

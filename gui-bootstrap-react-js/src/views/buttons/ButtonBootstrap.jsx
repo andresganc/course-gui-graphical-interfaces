@@ -2,7 +2,7 @@
 import React, { Fragment } from 'react';
 
 // Componentes Bootstrap
-import { Button } from  'react-bootstrap' ;
+import Button from 'react-bootstrap/Button'
 
 function ButtonBootstrap() {
     return (

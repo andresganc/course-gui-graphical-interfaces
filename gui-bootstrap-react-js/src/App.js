@@ -1,10 +1,9 @@
 import React from 'react';
 //import './App.css';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Componentes 
-import ButtonBootstrap from 'views/buttons/Buttons';
+import ButtonBootstrap from 'views/buttons/ButtonBootstrap';
 
 
 function App() {

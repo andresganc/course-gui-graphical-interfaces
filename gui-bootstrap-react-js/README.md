@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 ## INSTALACION
 
 
@@ -19,7 +13,7 @@
 
     $ import Button from 'react-bootstrap/Button';
 
-        // O lo ideeal es
+        // Menos ideal
 
     $ import { Button } from 'react-bootstrap';
 
