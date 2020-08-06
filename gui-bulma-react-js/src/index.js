@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// Styles Bulma
+import 'react-bulma-components/basic/react-bulma-components.min.css';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

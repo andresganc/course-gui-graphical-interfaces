@@ -1,11 +1,14 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+// Componentes
+import ButtonBulma from 'views/buttons/ButtonBulma';
+
 
 function App() {
   return (
     <div className="App">
-      
+      <ButtonBulma />
     </div>
   );
 }
